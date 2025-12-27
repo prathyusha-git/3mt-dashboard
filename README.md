@@ -2,7 +2,7 @@
 #  3MT Retention Analytics Dashboard as GRA at Graduate School:
 [![Program Engagement Analytics](https://img.shields.io/badge/Analytics-Program%20Engagement-blue)](#program-engagement-analytics)
 [![Educational Analytics](https://img.shields.io/badge/Analytics-Educational%20Analytics-512888)](#Educational-Analytics)
-![Longitudinal Analysis](https://img.shields.io/badge/Analysis-Longitudinal%20Participation-teal)
+[![Longitudinal Participation Analysis](https://img.shields.io/badge/Analysis-Longitudinal%20Participation-teal)](#longitudinal-participation-analysis)
 
 The** Three Minute Thesis (3MT) Retention & Participation Analytics Dashboard** is a data-driven decision-support tool designed to help the Graduate School at K-State understand, evaluate, and strengthen long-term engagement with the 3MT program across colleges and graduate programs.
 
@@ -45,7 +45,21 @@ By aggregating program-level participation within each college, this view highli
 
 These insights enable the Graduate School to align outreach strategies, allocate resources more effectively, and strengthen participation where institutional engagement has been historically inconsistent.
 
+## Longitudinal Participation Analysis
 
+Longitudinal participation analysis examines how engagement with the 3MT competition evolves **across multiple years**, rather than in isolated event cycles.
+
+This perspective reveals patterns that are not visible in single-year summaries, including:
+- Year-over-year stability in program participation
+- Periods of widespread drop-off or recovery
+- The duration programs remain engaged after first entry
+- Structural disruptions that impact institutional continuity
+
+The analysis indicates that while first-year participation is generally strong, **most program attrition occurs after 2–3 years**, identifying a critical retention window. External disruptions, particularly during the 2020–2021 period, resulted in visible breaks in participation, followed by partial recovery.
+
+By understanding when and how participation changes over time, this view enables the Graduate School to move from reactive responses to **early, targeted interventions**, supporting long-term sustainability of the 3MT participation ecosystem.
+
+**In Conclusion;**
 This dashboard enables the Graduate School to:
 Design targeted outreach instead of generic promotion of the event for increased success and outreach into the students.
 Revive participation from programs that dropped after early involvement
