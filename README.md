@@ -1,6 +1,6 @@
 
 #  3MT Retention Analytics Dashboard as GRA at Graduate School:
-![Program Engagement Analytics](https://img.shields.io/badge/Analytics-Program%20Engagement-blue)(#Program Engagement Analytics)
+[![Program Engagement Analytics](https://img.shields.io/badge/Analytics-Program%20Engagement-blue)](#program-engagement-analytics)
 [![Educational Analytics](https://img.shields.io/badge/Analytics-Educational%20Analytics-512888)](#Educational-Analytics)
 ![Longitudinal Analysis](https://img.shields.io/badge/Analysis-Longitudinal%20Participation-teal)
 
