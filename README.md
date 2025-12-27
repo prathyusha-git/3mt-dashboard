@@ -61,9 +61,9 @@ By understanding when and how participation changes over time, this view enables
 
 **In Conclusion;**
 This dashboard enables the Graduate School to:
-Design targeted outreach instead of generic promotion of the event for increased success and outreach into the students.
-Revive participation from programs that dropped after early involvement
-Support graduate student success through data-informed decisions.
+- Implement targeted outreach strategies in place of broad, generic promotion to improve participation outcomes
+- Identify and re-engage graduate programs that discontinued participation after initial involvement
+- Strengthen graduate student success initiatives through evidence-based decision-making
 
 **Usage:**
 Python
