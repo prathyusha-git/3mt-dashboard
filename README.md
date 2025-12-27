@@ -1,7 +1,7 @@
 
 #  3MT Retention Analytics Dashboard as GRA at Graduate School:
-![Program Engagement Analytics](https://img.shields.io/badge/Analytics-Program%20Engagement-blue)
-[![Educational Analytics](https://img.shields.io/badge/Analytics-Educational%20Analytics-512888)](#institutional-educational-analytics)
+![Program Engagement Analytics](https://img.shields.io/badge/Analytics-Program%20Engagement-blue)(#Program Engagement Analytics)
+[![Educational Analytics](https://img.shields.io/badge/Analytics-Educational%20Analytics-512888)](#Educational-Analytics)
 ![Longitudinal Analysis](https://img.shields.io/badge/Analysis-Longitudinal%20Participation-teal)
 
 The** Three Minute Thesis (3MT) Retention & Participation Analytics Dashboard** is a data-driven decision-support tool designed to help the Graduate School at K-State understand, evaluate, and strengthen long-term engagement with the 3MT program across colleges and graduate programs.
